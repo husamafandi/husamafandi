@@ -62,8 +62,4 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 ---
 
 ### 🤝 Kontakt
-**E-Mail:** Husam.afandi@edukraft.at · **LinkedIn:** https://www.linkedin.com/in/husamafandi/ · **Website:** https://edukraft.at
-
----
-
-<sub>© 2025 Husam Afandi · Moodle-Beauftragter · Weidinger & Partner GmbH</sub>
+<sub>**E-Mail:** Husam.afandi@edukraft.at · **LinkedIn:** https://www.linkedin.com/in/husamafandi/ · **Website:** https://edukraft.at/sub>
