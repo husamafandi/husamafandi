@@ -22,20 +22,19 @@ Ich baue die Brücke zwischen **Didaktik** & **IT**: stabile Systeme, motivieren
 Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P · BigBlueButton · Matomo · LTI · OpenBadges
 
 ---
-
 ## 🧩 Eigene Plugins
 
 | Plugin | Typ | Kurzbeschreibung | Moodle | Links |
 | --- | --- | --- | --- | --- |
-| **Simple booking** | mod | Einfache Termin-/Platzbuchung | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_simplebooking) |
+| **Simple booking** | mod | Einfache Termin-/Platzbuchung | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
 | **Workshop booking** | mod | Workshop-Anmeldung (Slots, Serien) | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_workshopbooking) |
-| **Bewerbungsdokumentation** | mod | Bewerbungs- & Statusverwaltung | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_bewerbungsdoku) |
-| **Wochenbericht** | mod | Wöchentliche Nachweise/Berichte | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_wochenbericht) |
-| **Enrolment Reminder** | local | Einschreib-Reminder (Regeln, Task) | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-local_enrolreminder) |
-| **Group stats** | local | Gruppenaktivitäten/Statistiken | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-local_groupstats) |
-| **Keinmail CSV** | local | CSV-Import (User/Kurse/Rollen/Gruppen/Kohorten) | 3.7+ | [GitHub](https://github.com/husamafandi/moodle-local_keinmailcsv) |
-| **User deletion date** | local | Kontolöschung/Sperren per Profilfeldern + Task | 4.0+ | [GitHub](https://github.com/husamafandi/moodle-local_userdeletiondate) |
-| **Activity stats (per project)** | report | Projekt/Kurs-Statistiken inkl. CSV | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-report_activitystats) |
+| **Bewerbungsdokumentation** | mod | Bewerbungs- & Statusverwaltung | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **Wochenbericht** | mod | Wöchentliche Nachweise/Berichte | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **Enrolment Reminder** | local | Einschreib-Reminder (Regeln, Task) | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **Group stats** | local | Gruppenaktivitäten/Statistiken | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **Keinmail CSV** | local | CSV-Import (User/Kurse/Rollen/Gruppen/Kohorten) | 3.7+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **User deletion date** | local | Kontolöschung/Sperren per Profilfeldern + Task | 4.0+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **Activity stats (per project)** | report | Projekt/Kurs-Statistiken inkl. CSV | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
 
 
 ---
