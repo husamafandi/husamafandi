@@ -37,7 +37,6 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 | **User deletion date** | local | Kontolöschung/Sperren per Profilfeldern + Task | 4.0+ | [GitHub](https://github.com/husamafandi/moodle-local_userdeletiondate) |
 | **Activity stats (per project)** | report | Projekt/Kurs-Statistiken inkl. CSV | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-report_activitystats) |
 
-> Falls Plugins privat bleiben sollen: Schreibe statt GitHub-Link „auf Anfrage“.
 
 ---
 
