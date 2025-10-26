@@ -42,8 +42,8 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 ### 🗂️ Profile-Extras
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husamafandi&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husamafandi&layout=compact)
-![Visitors](https://komarev.com/ghpvc/?username=husamafandi)
 
+![Visitors](https://komarev.com/ghpvc/?username=husamafandi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Husam%20Afandi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husamafandi/)
 [![Website](https://img.shields.io/badge/Website-edukraft.at-222?logo=google-chrome)](https://edukraft.at)
 [![Email](https://img.shields.io/badge/E--Mail-Husam.afandi%40edukraft.at-444)](mailto:Husam.afandi@edukraft.at)
