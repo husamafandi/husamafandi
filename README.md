@@ -1,22 +1,20 @@
-# 👋 Husam Afandi · Moodlebeauftragter
+# 👋 Husam Afandi · Moodle-Beauftragter
 
 ![Rolle](https://img.shields.io/badge/Rolle-Moodlebeauftragter-0a7ea4)
 ![Fokus](https://img.shields.io/badge/Fokus-E--Learning_·_LMS_Administration-6a9fb5)
-![Moodle](https://img.shields.io/badge/Moodle-3.9%E2%80%934.x-FF9A00?logo=moodle\&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-4.1%E2%80%934.x-FF9A00?logo=moodle&logoColor=white)
 
-
-**Admin-Leiter (20+ Projekte) bei Weidinger & Partner GmbH.**  
-Ich verbinde **Didaktik** & **IT** und baue skalierbare Lernumgebungen ab **Moodle 4.1+**, entwickle Plugins und sorge für saubere Prozesse.
+Admin-Leiter (20+ Projekte) bei **Weidinger & Partner GmbH**.  
+Ich baue die Brücke zwischen **Didaktik** & **IT**: stabile Systeme, motivierende Kurse, saubere Prozesse.
 
 ---
 
 ## 🧭 Über mich
-- Moodle-Beauftragter & Admin-Leiter bei **Weidinger & Partner GmbH**
-- Betrieb & Pflege: Updates, Backups, Performance, Sicherheit
-- Kurse & Plugins: Struktur, Rollen, H5P, SCORM, Aktivitätsabschluss
-- Analytics & Qualität: Nutzungsberichte, Lernfortschritt, QS
-- Enablement: Schulungen, Doku, Support
-- **Sprachen:** Deutsch · Englisch · Arabisch
+* Betrieb & Pflege: Updates, Backups, Performance, Sicherheit
+* Kurse & Plugins: Struktur, Rollen, H5P, SCORM, Aktivitätsabschluss
+* Analytics & Qualität: Nutzungsberichte, Fortschritt, QS
+* Enablement: Schulungen, Dokumentation, Support
+* **Sprachen:** Deutsch · Englisch · عربي (Arabisch)
 
 ---
 
@@ -25,30 +23,33 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 
 ---
 
-## 🚀 Ausgewählte Projekte & Schwerpunkte
-- Ausbildungen in **30+ Berufen**, fachspezifische Weiterbildungen (u. a. **Gastronomie & Tourismus**), AMS-Projekte
-- E-Learning-Implementierungen, Plugin-Entwicklung, Automatisierung (Einschreibungen, Reports), Barrierefreiheit (WCAG)
+## 🧩 Eigene Plugins
+
+| Plugin | Typ | Kurzbeschreibung | Moodle | Links |
+| --- | --- | --- | --- | --- |
+| **Simple booking** | mod | Einfache Termin-/Platzbuchung | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_simplebooking) |
+| **Workshop booking** | mod | Workshop-Anmeldung (Slots, Serien) | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_workshopbooking) |
+| **Bewerbungsdokumentation** | mod | Bewerbungs- & Statusverwaltung | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_bewerbungsdoku) |
+| **Wochenbericht** | mod | Wöchentliche Nachweise/Berichte | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_wochenbericht) |
+| **Enrolment Reminder** | local | Einschreib-Reminder (Regeln, Task) | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-local_enrolreminder) |
+| **Group stats** | local | Gruppenaktivitäten/Statistiken | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-local_groupstats) |
+| **Keinmail CSV** | local | CSV-Import (User/Kurse/Rollen/Gruppen/Kohorten) | 3.7+ | [GitHub](https://github.com/husamafandi/moodle-local_keinmailcsv) |
+| **User deletion date** | local | Kontolöschung/Sperren per Profilfeldern + Task | 4.0+ | [GitHub](https://github.com/husamafandi/moodle-local_userdeletiondate) |
+| **Activity stats (per project)** | report | Projekt/Kurs-Statistiken inkl. CSV | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-report_activitystats) |
+
+> Falls Plugins privat bleiben sollen: Schreibe statt GitHub-Link „auf Anfrage“.
 
 ---
 
-## 🧪 Qualität & Prozesse
-- Coding: Moodle Coding Style + PSR-12 · phpcs (moodle) · phpstan
-- Tests: PHPUnit · Behat
-- Privacy/DSGVO: Privacy-Provider, Capabilities, Logging/Retention
-- Lizenz: GPL-3.0
+## 🗂️ Profile-Extras (optional)
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husamafandi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husamafandi&layout=compact)
+![Visitors](https://komarev.com/ghpvc/?username=husamafandi)
 
-## 🗂️ Plugins (Auswahl)
-- `local_enrolreminder` – Enrolment Deadline Reminder (Regeln, E-Mail/Message, Task)
-- `local_groupstats` – Gruppen-Aktivitäten (Views/Posts, Chart, Filter)
-- `local_keinmailcsv` – CSV-Import von Nutzer:innen (Kurse/Rollen/Gruppen/Kohorten)
-- `local_userdeletiondate` – Kontolöschung/Sperren über Profilfelder + Task
-- `mod_bewerbungsdoku` – Bewerbungsdokumentation (Status/Filter/Export)
-- `mod_simplebooking` – Einfache Termin-/Platzbuchung
-- `mod_wochenbericht` – Wochenberichte
-- `mod_workshopbooking` – Workshop-Anmeldung (Slots, Serien)
-- `report_activitystats` – Projekt/Kurs-Statistik (CSV)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Husam%20Afandi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husamafandi/)
+[![Website](https://img.shields.io/badge/Website-edukraft.at-222?logo=google-chrome)](https://edukraft.at)
+[![Email](https://img.shields.io/badge/E--Mail-Husam.afandi%40edukraft.at-444)](mailto:Husam.afandi@edukraft.at)
 
 ---
 
@@ -56,3 +57,9 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 **E-Mail:** Husam.afandi@edukraft.at · **LinkedIn:** https://www.linkedin.com/in/husamafandi/ · **Website:** https://edukraft.at
 
 > Ich freue mich über Austausch, Issues und Pull Requests rund um Moodle & E-Learning!
+
+---
+
+### 📌 Hinweise
+* **Profil-README aktivieren:** Erstelle ein Repo **`husamafandi/husamafandi`** und lege dort eine `README.md` an (falls noch nicht vorhanden).
+* **Volles Design (deine schöne HTML-Variante):** Nutze **GitHub Pages** → neues Repo `husamafandi.github.io` → `index.html` hochladen → im Profil verlinken.
