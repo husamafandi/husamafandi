@@ -68,7 +68,3 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 > Ich freue mich über Austausch, Issues und Pull Requests rund um Moodle & E-Learning!
 
 ---
-
-### 📌 Hinweise
-* **Profil-README aktivieren:** Erstelle ein Repo **`husamafandi/husamafandi`** und lege dort eine `README.md` an (falls noch nicht vorhanden).
-* **Volles Design (deine schöne HTML-Variante):** Nutze **GitHub Pages** → neues Repo `husamafandi.github.io` → `index.html` hochladen → im Profil verlinken.
