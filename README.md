@@ -14,7 +14,7 @@ Ich baue die Brücke zwischen **Didaktik** & **IT**: stabile Systeme, motivieren
 - Kurse & Plugins: Struktur, Rollen, H5P, SCORM, Aktivitätsabschluss
 - Analytics & Qualität: Nutzungsberichte, Fortschritt, QS
 - Enablement: Schulungen, Dokumentation, Support
-- **Sprachen:** Deutsch · Englisch · عربي (Arabisch)
+- **Sprachen:** Deutsch · Englisch · (Arabisch)
 
 ---
 
@@ -27,15 +27,15 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 
 | Plugin | Typ | Kurzbeschreibung | Moodle | Links |
 | --- | --- | --- | --- | --- |
-| **Simple booking** | mod | Einfache Termin-/Platzbuchung | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **Simple booking** | mod | Einfache Termin-/Platzbuchung | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at) |
 | **Workshop booking** | mod | Workshop-Anmeldung (Slots, Serien) | 4.1+ | [GitHub](https://github.com/husamafandi/moodle-mod_workshopbooking) |
-| **Bewerbungsdokumentation** | mod | Bewerbungs- & Statusverwaltung | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
-| **Wochenbericht** | mod | Wöchentliche Nachweise/Berichte | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
-| **Enrolment Reminder** | local | Einschreib-Reminder (Regeln, Task) | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
-| **Group stats** | local | Gruppenaktivitäten/Statistiken | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
-| **Keinmail CSV** | local | CSV-Import (User/Kurse/Rollen/Gruppen/Kohorten) | 3.7+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
-| **User deletion date** | local | Kontolöschung/Sperren per Profilfeldern + Task | 4.0+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
-| **Activity stats (per project)** | report | Projekt/Kurs-Statistiken inkl. CSV | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at), [LinkedIn](https://www.linkedin.com/in/husamafandi/) |
+| **Bewerbungsdokumentation** | mod | Bewerbungs- & Statusverwaltung | 4.1+ |[GitHub](https://github.com/husamafandi/moodle-mod_bewerbungsdoku) |
+| **Wochenbericht** | mod | Wöchentliche Nachweise/Berichte | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
+| **Enrolment Reminder** | local | Einschreib-Reminder (Regeln, Task) | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
+| **Group stats** | local | Gruppenaktivitäten/Statistiken | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
+| **Keinmail CSV** | local | CSV-Import (User/Kurse/Rollen/Gruppen/Kohorten) | 3.7+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
+| **User deletion date** | local | Kontolöschung/Sperren per Profilfeldern + Task | 4.0+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
+| **Activity stats (per project)** | report | Projekt/Kurs-Statistiken inkl. CSV | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
 
 ---
 
