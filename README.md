@@ -28,7 +28,7 @@ Moodle · PHP · MySQL · PostgreSQL · Linux · Docker · Nginx · Git · H5P �
 | Plugin | Typ | Kurzbeschreibung | Moodle | Links |
 | --- | --- | --- | --- | --- |
 | **Simple booking** | mod | Einfache Termin-/Platzbuchung | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at) |
-| **Workshop booking** | mod | Workshop-Anmeldung (Slots, Serien) | 4.1+ | [GitHub](https://github.com/husamafandi/workshopbooking) |
+| **Workshop booking** | mod | Workshop-Anmeldung (Slots, Serien) | 4.1+ |  Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at) |
 | **Bewerbungsdokumentation** | mod | Bewerbungs- & Statusverwaltung | 4.1+ |[GitHub](https://github.com/husamafandi/bewerbungsdoku) |
 | **Wochenbericht** | mod | Wöchentliche Nachweise/Berichte | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
 | **Enrolment Reminder** | local | Einschreib-Reminder (Regeln, Task) | 4.1+ | Auf Anfrage: [E-Mail](mailto:Husam.afandi@edukraft.at)|
