@@ -40,7 +40,6 @@ Als Unternehmer verbinde ich **Beratung, Umsetzung und Betrieb**: von der Archit
 ## 🎓 Akademischer Hintergrund
 - **Ph.D. Business Administration**
 - **M.Sc. Information Technology Management**
-- **M.E.d. Education**
 - **Derzeit:** **B.Sc. Angewandte Künstliche Intelligenz**
 
 ---
