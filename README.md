@@ -13,12 +13,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Ph.D.-Business_Administration-062b61" alt="PhD" />
-  <img src="https://img.shields.io/badge/M.Sc.-IT_Management-0a7ea4" alt="MSc" />
-  <img src="https://img.shields.io/badge/Derzeit-B.Sc._Angewandte_KI-111827" alt="BSc KI" />
-</p>
-
-<p>
   <a href="https://afandi.org"><img src="https://img.shields.io/badge/Website-afandi.org-222?logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/husamafandi/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fhusamafandi-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/afandihusam"><img src="https://img.shields.io/badge/Facebook-afandihusam-1877F2?logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -37,10 +31,6 @@ Als Unternehmer verbinde ich **Beratung, Umsetzung und Betrieb**: von der Archit
 
 ---
 
-## 🎓 Akademischer Hintergrund
-- **Ph.D. Business Administration**
-- **M.Sc. Information Technology Management**
-- **Derzeit:** **B.Sc. Angewandte Künstliche Intelligenz**
 
 ---
 
